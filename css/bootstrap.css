@@ -5259,6 +5259,7 @@ a.list-group-item-danger.active:focus {
 .panel-danger > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ebccd1;
 }
+
 .embed-responsive {
   position: relative;
   display: block;
